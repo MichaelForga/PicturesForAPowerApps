@@ -1,2 +1,0 @@
-# PicturesForAPowerApps
-Pictures for PowerApps
